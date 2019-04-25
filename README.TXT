@@ -1,12 +1,12 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This project takes each important section of your high school carrer, 
+gives it a percent of importance, and calculates what percent of that variable you have of it. 
+Then it creates a total percent and that is your percent of getting into college.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
+PROJECT TITLE: College Admissions
+PURPOSE OF PROJECT:To get an idea of your chance of getting into college
 VERSION or DATE:
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS:Gabriel Somek
 USER INSTRUCTIONS:
