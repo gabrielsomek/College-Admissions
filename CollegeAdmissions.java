@@ -1,6 +1,7 @@
 
 /**
  * This is where all the user input is taken and sent to other classes to calculate.
+ * This is the main code that should be run.
  *
  * @author Gabriel Somek
  * @version March 20, 2019
