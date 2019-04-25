@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TotalScore
+comment0.text=\n\ This\ is\ where\ to\ total\ percent\ is\ derived\ from.\n\n\ @author\ Gabriel\ Somek\n\ @version\ March\ 20,\ 2019\n
+comment1.params=ACT\ SAT\ APTotal\ numberOfExamsTaken\ GPA\ satPercent\ gpaPercent\ apPercent
+comment1.target=double\ totalScore(double,\ double,\ double,\ int,\ double,\ int,\ int,\ int)
+numComments=2

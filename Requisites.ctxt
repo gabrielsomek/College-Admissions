@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Requisites
+comment0.text=\n\ This\ is\ the\ interface\ in\ where\ all\ the\ requirements\ will\ be.\n\n\ @author\ Gabriel\ Somek\n\ @version\ March\ 20,\ 2019\n
+comment1.params=SAT\ ACT\ percent
+comment1.target=double\ StandardizeTest(double,\ double,\ double)
+comment2.params=gpa\ percent
+comment2.target=double\ GPA(double,\ double)
+comment3.params=APScore\ numberOfExamsTaken\ percent
+comment3.target=double\ APExams(double,\ int,\ double)
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Percentages
+comment0.text=\n\ Initializes\ variables.\n\n\ @author\ Gabriel\ Somek\n\ @version\ March\ 20,\ 2019\n
+comment1.params=area\ percent
+comment1.target=Percentages(java.lang.String,\ int)
+comment2.params=area
+comment2.target=int\ getPercent(java.lang.String)
+numComments=3

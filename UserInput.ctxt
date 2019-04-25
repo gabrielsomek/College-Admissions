@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=UserInput
+comment1.params=ACT\ SAT\ percent
+comment1.target=double\ StandardizeTest(double,\ double,\ double)
+comment2.params=APScore\ numberOfExamsTaken\ percent
+comment2.target=double\ APExams(double,\ int,\ double)
+comment3.params=gpa\ percent
+comment3.target=double\ GPA(double,\ double)
+numComments=4
